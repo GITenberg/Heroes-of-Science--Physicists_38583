@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '39548'
     url: http://www.gutenberg.org/2009/agents/39548
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38583#Heroes-of-Science--Physicists
 gutenberg_issued: '2012-01-15'
 gutenberg_type: Text
 identifiers:
