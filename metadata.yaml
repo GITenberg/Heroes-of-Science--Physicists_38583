@@ -26,6 +26,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'QC'
 - !lcsh 'Physicists'
+- GITenberg
 tableOfContents: Introduction -- Robert Boyle -- Benjamin Franklin -- Henry Cavendish
   -- Count Rumford -- Thomas Young -- Michael Faraday -- James Clerk Maxwell -- Conclusion.
 title: 'Heroes of Science: Physicists'
